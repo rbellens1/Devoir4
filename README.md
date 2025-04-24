@@ -1,6 +1,6 @@
 # Devoir 4 - Théorie des graphes : Spectral Clustering
 
-Ce dépôt contient le travail réalisé dans le cadre du cours de **Mathématiques discrètes I : Théorie et algorithmique des graphes**. Le devoir porte sur l'implémentation et l'analyse du **spectral clustering**, une méthode puissante en apprentissage automatique pour la classification non supervisée.
+Ce dépôt contient le travail réalisé dans le cadre du cours de **LINMA1691 - Mathématiques discrètes I : Théorie et algorithmique des graphes**. Le devoir porte sur l'implémentation et l'analyse du **spectral clustering**, une méthode puissante en apprentissage automatique pour la classification non supervisée.
 
 ## Description
 
@@ -29,4 +29,4 @@ Sauf indication contraire, le contenu de ce dépôt est sous licence académique
 
 ---
 
-**Contact** : Pour toute question liée au devoir ou au cours, veuillez utiliser les plateformes officielles de communication de votre institution.tion.
+**Contact** : Pour toute question liée au devoir ou au cours, veuillez utiliser les plateformes officielles de communication de votre institution.
